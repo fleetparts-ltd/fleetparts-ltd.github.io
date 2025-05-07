@@ -1,0 +1,5 @@
+# Ignore diffs for binary files (e.g., .zip, .pdf, .mp4)
+*.zip     -diff
+
+# Exclude from GitHub language statistics
+*.zip     linguist-documentation
